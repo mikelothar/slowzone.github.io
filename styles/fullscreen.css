@@ -1,4 +1,4 @@
-html { 
+html, body { 
   background: url('http://ringvemedia.com/server//bg.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -6,6 +6,7 @@ html {
   background-size: cover;
 }
 
-div {
-    background-color: none;
+body {
+    padding-top: 10%;
 }
+
